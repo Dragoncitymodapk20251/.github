@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="LWVskeLo75ZgXh_dXOi_lxI0S1rRjxFVwsqeWpDkWIQ">
+    <title>Verification</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Pages</h1>
+</body>
+</html>
+
+
 <html>
   <head><meta name="google-site-verification" content="LWVskeLo75ZgXh_dXOi_lxI0S1rRjxFVwsqeWpDkWIQ" />
     <body></body>
