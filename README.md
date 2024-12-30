@@ -1,4 +1,7 @@
-# Dragon City Mod APK
+<html>
+  <head><meta name="google-site-verification" content="LWVskeLo75ZgXh_dXOi_lxI0S1rRjxFVwsqeWpDkWIQ" />
+    <body></body>
+</head># Dragon City Mod APK
 
 A dragon city will be in your hands when participating in **Dragon City Mod APK**. It allows you to own a wide collection of species that are both lovable and powerful. They are raised, collected, and bred by you from various sources. Becoming the top Dragon Master on the planet is the dream you will conquer in this simulation game. To that end, you can mobilize and join alliances to fight head-to-head in global events.
 
@@ -61,4 +64,4 @@ Participate in PvP battles and global events with other **Dragon Masters**:
 
 ---
 
-Enjoy building your ultimate dragon empire! 🐲
+Enjoy building your ultimate dragon empire! 🐲</html>
