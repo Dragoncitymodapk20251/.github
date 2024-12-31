@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="LWVskeLo75ZgXh_dXOi_lxI0S1rRjxFVwsqeWpDkWIQ">
+    <meta name="google-site-verification" content="7hNm9-eHav8zwibSjyuxQ9WnfwtY09Ngwej5lbY2QHU" />
     <title>Verification</title>
 </head>
 <body>
